@@ -1,5 +1,5 @@
 # C++ Boilerplate
-[![Build Status](https://travis-ci.com/kartikv97/Valgrind-Tutorial.svg?branch=master)](https://travis-ci.com/github/kartikv97/Valgrind-Tutorial)
+[![Build Status](https://travis-ci.org/kartikv97/Valgrind-Tutorial.svg?branch=master)](https://travis-ci.org/kartikv97/Valgrind-Tutorial)
 [![Coverage Status](https://coveralls.io/repos/github/kartikv97/Valgrind-Tutorial/badge.svg?branch=master)](https://coveralls.io/github/kartikv97/Valgrind-Tutorial?branch=master)
 ---
 
